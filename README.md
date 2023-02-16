@@ -4,8 +4,6 @@ Este projeto foi proposto pela plataforma de ensino Alura, para validar os conhe
 
 ![Desktop](layouts/alurinha-layout-desktop.png)
 
-![Mobile](layouts/alurinha-layout-mobile.png)
-
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Consulte **[Matheus De La Barra](https://www.linkedin.com/in/matheusdelabarra)** para saber como implantar o projeto.
