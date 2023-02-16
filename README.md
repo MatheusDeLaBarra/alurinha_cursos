@@ -1,4 +1,4 @@
-# Decodificador de Texto 
+# Alurinha Cursos
 
 Este projeto foi proposto pela plataforma de ensino Alura, para validar os conhecimentos adquiridos sobre o tema de Flexbox. O projeto consiste em uma plataforma de cursos de programação.
 
